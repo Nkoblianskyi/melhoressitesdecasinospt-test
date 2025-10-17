@@ -2,7 +2,7 @@ import { MapPin, Trophy, Sparkles, TrendingUp } from "lucide-react"
 
 export function TopSitesPortugalSection() {
   return (
-    <section className="py-16 bg-black/30">
+    <section className="py-8">
       <div className="max-w-6xl mx-auto px-4">
         <div className="bg-gradient-to-br from-red-900/20 to-black/50 rounded-lg p-8 md:p-12 border border-red-500/20">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">

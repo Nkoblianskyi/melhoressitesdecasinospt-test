@@ -21,8 +21,8 @@ export function HeroSection() {
       {/* Content */}
       <div className="relative z-10 h-full flex items-center justify-center px-4">
         <div className="max-w-4xl w-full text-center space-y-3 md:space-y-2">
-          <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-balance">
-            <span className="text-[#FF0000]">Top Casinos</span> <span className="text-[#006600]">Online</span>{" "}
+          <h1 className="text-2xl md:text-3xl lg:text-5xl font-bold text-balance">
+            <span className="text-[#FF0000]">Top </span> <span className="text-[#006600]">Casinos</span>{" "}
             <span className="text-[#FFD700]">em Portugal</span>
           </h1>
 
@@ -32,7 +32,7 @@ export function HeroSection() {
           </p>
 
           {/* Short Description */}
-          <p className="text-sm md:text-base text-muted-foreground max-w-2xl mx-auto leading-relaxed">
+          <p className="text-sm md:text-sm text-muted-foreground max-w-2xl mx-auto md:px-14 leading-relaxed">
             Ranking profissional dos melhores casinos online licenciados pelo SRIJ. Análises independentes,
             transparentes e atualizadas diariamente para sua segurança.
           </p>

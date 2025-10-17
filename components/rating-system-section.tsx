@@ -2,7 +2,7 @@ import { Star, CheckCircle, TrendingUp, Search } from "lucide-react"
 
 export function RatingSystemSection() {
   return (
-    <section className="py-16">
+    <section className="py-8">
       <div className="max-w-6xl mx-auto px-4">
         <div className="bg-gradient-to-br from-black/50 to-green-900/20 rounded-lg p-8 md:p-12 border border-green-500/20">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">
