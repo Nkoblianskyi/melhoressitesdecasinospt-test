@@ -330,7 +330,7 @@ export default function PrivacyPolicyPage() {
               </p>
               <ul className="text-gray-300 list-disc pl-6 space-y-1">
                 <li>Formulário de contacto disponível no nosso website</li>
-                <li>Email: [endereço de email a ser adicionado]</li>
+                <li>Email: info@melhoressitesdecasinospt.com</li>
               </ul>
               <p className="text-gray-300 mt-4">
                 Faremos o nosso melhor para responder ao seu pedido no prazo de 30 dias.

@@ -33,11 +33,6 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#guia" className="hover:text-yellow-400 transition-colors">
-                  Guia
-                </a>
-              </li>
-              <li>
                 <a href="#faq" className="hover:text-yellow-400 transition-colors">
                   FAQ
                 </a>
