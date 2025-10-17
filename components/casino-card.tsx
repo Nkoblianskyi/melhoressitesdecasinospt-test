@@ -98,7 +98,7 @@ export function CasinoCard({ casino, index }: CasinoCardProps) {
               {/* Bonus - Center on desktop */}
               <div className="lg:flex-1 lg:text-center ml-4">
                 <p className="text-yellow-400 text-sm font-medium mb-2">OFERTA DE BOAS-VINDAS</p>
-                <p className="text-3xl font-bold text-white">{casino.bonus}</p>
+                <p className="text-2xl font-bold text-white">{casino.bonus}</p>
               </div>
 
               <div className="flex flex-col items-center space-y-1 lg:flex-shrink-0">
